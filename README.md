@@ -2,7 +2,7 @@
 
 <H3>Name: DHANUSH C</H3>
 <H3>Register no: 212224040066</H3>
-<H3>Date: 14.10.2025 </H3>
+<H3>Date: 06.11.2025 </H3>
 
 # AIM:
 To perform Gray scale Morphology Real Time Bone Fracture Detection.
