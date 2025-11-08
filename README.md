@@ -1,4 +1,4 @@
-# WORKSHOP 4- Gray scale Morphology-Real-Time Bone Fracture Detection
+# WORKSHOP -4: Coin Detection using OpenCV in Python
 
 <H3>Name: DHANUSH C</H3>
 <H3>Register no: 212224040066</H3>
